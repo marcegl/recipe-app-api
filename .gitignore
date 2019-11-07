@@ -110,3 +110,6 @@ venv.bak/
 .idea/modules.xml
 .idea/recipe-app-api.iml
 .idea/vcs.xml
+
+#vscode
+.vscode/
